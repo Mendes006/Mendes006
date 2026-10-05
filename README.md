@@ -15,7 +15,7 @@
 
 ## Sobre
 
-Estudo Engenharia de Software e trabalho com dados e automação de processos. Já tive sistemas rodando em produção na Devalor e agora uso SQL e Python para análise de dados.
+Estudo Engenharia de Software e trabalho com dados e automação de processos. Já tive sistemas rodando em produção na Devalor. Hoje sou Analista de BI na Manchester Investimentos e atuo com ETL: levanto, trato e analiso dados de investimentos complexos e sensíveis, junto com o time de dados.
 
 O meu [portfólio](https://maiconmendes.dev) tem o detalhe de cada experiência, com as métricas que entreguei.
 
